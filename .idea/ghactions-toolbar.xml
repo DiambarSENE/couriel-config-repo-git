@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GhActionsToolbarSettings">
+    <option name="customRepos">
+      <map>
+        <entry key="https://github.com/DiambarSENE/api-user-gestion-couriel.git">
+          <value>
+            <RepoSettings />
+          </value>
+        </entry>
+        <entry key="https://github.com/DiambarSENE/config.git">
+          <value>
+            <RepoSettings />
+          </value>
+        </entry>
+        <entry key="https://github.com/DiambarSENE/couriel-config-repo-git.git">
+          <value>
+            <RepoSettings />
+          </value>
+        </entry>
+        <entry key="https://github.com/DiambarSENE/eureka.git">
+          <value>
+            <RepoSettings />
+          </value>
+        </entry>
+        <entry key="https://github.com/DiambarSENE/gateway-service.git">
+          <value>
+            <RepoSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
